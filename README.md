@@ -2,7 +2,7 @@
 # Desafio Cientista de Dados
 
 Este projeto contém um notebook Jupyter que analisa dados de preços de acomodações e visualiza relações entre variáveis.
-modelo_precicao_preco.zip e o arquivo .pkl zipado por causa do tamanho.
+modelo_predicao_preco.zip e o arquivo .pkl zipado por causa do tamanho.
 
 ## Requisitos
 
